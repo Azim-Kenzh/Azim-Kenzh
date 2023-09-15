@@ -1,16 +1,34 @@
-### Hi there 👋
+# HI 👋, I'm Azimkozho Kenzhebek uulu
 
-<!--
-**Azim-Kenzh/Azim-Kenzh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+I began my developer journey in 2019, and ever since I've been continuously learning, growing, and sharing my experience with the community.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+  <tr>
+    <td valign="top" width="50%">
+
+## 🌱 My Interests
+
+* Artificial Intelligence and Machine Learning
+* Web Development
+* Open Source
+* Creating Python libraries with open source
+
+    </td>
+    <td valign="top" width="50%">
+
+![GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
+  </tr>
+</table>
+
+## 📫 How to Reach Me
+
+* 📧 Email: [azimkozho.developer@gmail.com](mailto:azimkozho.developer@gmail.com)
+* 🔗 LinkedIn: [Azimkozho Kenzhebek uulu](https://www.linkedin.com/in/azimkozho-kenzhebek-uulu-41b709209/)
+* 🌐 My profile on [OpenSource Heroes](https://opensource-heroes.com/u/Azim-Kenzh)
+* 📬 Telegram: [Azim-Kenzh](https://t.me/Azim_Kenzh)
+
+
+### Feel free to contact me with any questions!
